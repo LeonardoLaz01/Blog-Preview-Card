@@ -19,7 +19,7 @@ The goal of this project was to practice **HTML and CSS** by building a responsi
 
 ---
 
-## 📂 Estrutura do projeto
+## 📂 Project Structure
 📦 Blog-Preview-Card
 ┣ 📜 index.html
 ┣ 📦 Style
