@@ -7,7 +7,7 @@ The goal of this project was to practice **HTML and CSS** by building a responsi
 
 ## 🚀 Demo
 
-🔗 [Live Demo](https://leonardolaz01.github.io/Blog-Preview-Card/)
+🔗 [Check the online page](https://leonardolaz01.github.io/Blog-Preview-Card/)
 
 📷![screenshot](./screenshot.png)
 
